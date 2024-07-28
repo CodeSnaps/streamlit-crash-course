@@ -2,7 +2,7 @@
 
 Learn how to turn your Python scripts into web apps using Streamlit. Streamlit is a Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. No experience in HTML, CSS, or JavaScript is required.
 
-![YouTube Video](https://youtu.be/AbuOf42CAdo)
+![YouTube Video](https://youtu.be/Jo_mrxAXVzc)
 
 ## Here’s What You’ll Learn 👨🏻‍💻
 
